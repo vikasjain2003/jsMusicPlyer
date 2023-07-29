@@ -1,1 +1,1 @@
-# Music Player in Javascript
+# Music Player in Javascript by Vikas
